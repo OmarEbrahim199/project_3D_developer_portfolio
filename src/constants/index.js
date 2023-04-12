@@ -46,7 +46,11 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "full stack  Developer",
+    icon: web,
+  },
+  {
+    title: "React Developer",
     icon: mobile,
   },
   {
@@ -172,28 +176,15 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
-  },
-  {
-    testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
-  },
-  {
-    testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
-  },
+      "With a Bachelor of Science degree in Engineering Software Technology from DTU under my belt,"+
+       "I'm armed with a diverse arsenal of programming knowledge and skills. From Java to JavaScript,"+
+       " I've embraced a wide range of programming languages, all the while nurturing an unquenchable thirst for learning and self-improvement."+
+
+      "As an aspiring engineer, I'm always seeking new challenges to tackle, new mountains to climb."+
+       "Whether it's delving into the intricacies of React Framework frontend, exploring the depths of NoSQL database, or mastering the nuances of project management, I'm always pushing myself to new heights."+
+      
+     "But I'm not content to rest on my laurels. In addition to my existing knowledge and expertise, I'm always on the lookout for fresh and exciting opportunities to expand my skillset. From Node JS to Git backend, I'm eager to take on any challenge that comes my way. After all, variety is the spice of life!"
+  }
 ];
 
 const projects = [
